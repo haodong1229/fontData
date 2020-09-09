@@ -1,7 +1,6 @@
 @font-face {
     font-family: 'AaFangMeng';
-    src: url('AaFangMeng.woff2') format('woff2'),
-        url('AaFangMeng.woff') format('woff');
+    src: url('fangmeng.TTF') format('TTF'),
     font-weight: normal;
     font-style: normal;
     font-display: swap;
